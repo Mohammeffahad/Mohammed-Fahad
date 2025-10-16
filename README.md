@@ -17,10 +17,24 @@
 - ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tally ERP](https://img.shields.io/badge/Tally%20ERP-00A859?style=for-the-badge&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A247?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+## 🧩 Other Skills
+
+![Web Design](https://img.shields.io/badge/Web%20Design-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Open Source Software](https://img.shields.io/badge/Open%20Source%20Software-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Microso]()
+
+
 
 
 ## 📈 GitHub Stats
