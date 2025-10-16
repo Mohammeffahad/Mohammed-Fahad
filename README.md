@@ -32,7 +32,7 @@
 ![Web Design](https://img.shields.io/badge/Web%20Design-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Database Management](https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Open Source Software](https://img.shields.io/badge/Open%20Source%20Software-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Microso]()
+![Microsoft Applications](https://img.shields.io/badge/Microsoft%20Applications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 
