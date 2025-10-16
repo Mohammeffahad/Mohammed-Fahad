@@ -21,5 +21,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedfahad&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://www.linkedin.com/in/mohammedfahad786)  
 
