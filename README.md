@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Fahad  
+# 👋 Hi, I'm Muhammed Fahad  
 
 🎓 BCA Student | 💻 Aspiring Data Analyst and Developer| 🌐 Tech Enthusiast  
 
