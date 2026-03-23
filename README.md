@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mohammed Fahad  
 
-🎓 BCA Student | 💻 Aspiring Software Developer | 🌐 Tech Enthusiast  
+🎓 BCA Student | 💻 Aspiring Data Analyst and Developer| 🌐 Tech Enthusiast  
 
 ## 🚀 About Me
 - 🌱 I’m currently pursuing my Bachelor's of computer application degree 
-- 💡 Interested in **Programming, Cyber Security and Cloud Computing**  
+- 💡 Interested in **Programming, Data Analysis, Cyber Security and Cloud Computing**  
 - 💬 Ask me about anything related to **programming**, **open source tools** and **Ai tools**  
 - 📫 Reach me at: [mf2929076@gmail.com]  
 - ⚡ Fun fact: I love exploring new tech and designing creative digital content!
